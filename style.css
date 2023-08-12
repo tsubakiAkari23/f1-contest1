@@ -1,0 +1,28 @@
+body {
+    padding: 3px;
+}
+.beagle {
+    padding-top: 0px;
+    border: 1px solid black;
+    text-align: centre;
+}
+.info {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+a {
+    color: black;
+}
+
+.pic {
+    padding : 5px;
+    margin: 10px;
+}
+
+.h1-trivia {
+    margin: 10px;
+}
+ol {
+    line-height: 1.3;
+    padding-left: 30px;
+}
